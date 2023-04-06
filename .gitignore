@@ -1,0 +1,8 @@
+v-env/
+*.env
+.idea/
+media/
+tamrin.py
+
+**/__pyccache__/
+*.pyc
